@@ -199,11 +199,6 @@ hash = "5a26e7e501aaaca8f241519607940eb9ba1138c09cce8055466f0ec29d24df95"
 metafile = true
 
 [[files]]
-file = "mods/all-the-compatibility.pw.toml"
-hash = "7a437bcf74e2d252a766c92c1eeb0963c559bb333c57490d4658db1175c56384"
-metafile = true
-
-[[files]]
 file = "mods/allthemodium.pw.toml"
 hash = "fc8ac9dc852407deb2b7f566ce46803fa82bbd57252f42301b1a0bab730d39de"
 metafile = true
