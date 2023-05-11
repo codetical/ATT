@@ -1,0 +1,13 @@
+name = "Brooms"
+filename = "BroomsMod-1.19-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d032ee7d62010f98c06470d031b337f0151439b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3881704
+project-id = 542920

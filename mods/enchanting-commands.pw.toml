@@ -1,0 +1,13 @@
+name = "Enchanting Commands"
+filename = "enchantingcommands-1.19.2-3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e9d0ba7ab3c4eafc43a5fd5827dcccfab96683b7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4327709
+project-id = 341721

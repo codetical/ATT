@@ -1,0 +1,13 @@
+name = "BetterEnchantments"
+filename = "betterenchantments-1.0.0-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea0d946dbe19056609923aa5a714dde78ec7d1ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4345320
+project-id = 387747

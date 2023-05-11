@@ -1,0 +1,13 @@
+name = "Fancy Trinkets"
+filename = "fancytrinkets-1.19-2.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a9151724e36eb6f0804b8791351f5e1255fedef3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4489763
+project-id = 725568

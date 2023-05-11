@@ -1,0 +1,13 @@
+name = "Nameless Trinkets"
+filename = "Nameless Trinkets-1.19.2-1.6.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "54ca3c724d0f4c2f118829507ddf504dd1764a18"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4378162
+project-id = 541466

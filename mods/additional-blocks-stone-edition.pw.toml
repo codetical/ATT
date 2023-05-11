@@ -1,0 +1,13 @@
+name = "Additional Blocks: Stone Edition"
+filename = "abstoneedition-2.1.0-forge-mc1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88380683d09201a9b637718b99430178558760ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4501850
+project-id = 436715

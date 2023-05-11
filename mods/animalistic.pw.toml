@@ -1,0 +1,13 @@
+name = "Animalistic"
+filename = "Animalistic_mod_1.2.0_1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e4ff55abb4f827efa8666d5eb30da5fd4f46b2a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4435659
+project-id = 739795

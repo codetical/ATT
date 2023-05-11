@@ -1,0 +1,13 @@
+name = "Amethysts of Fortune"
+filename = "Amethysts of Fortune [v1.0 - 1.19.2].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43099ed92486e757556365ad278dd0398a972053"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4395847
+project-id = 826791

@@ -1,0 +1,13 @@
+name = "Builders Dimension"
+filename = "Builders_Dimension_0.0.7_1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c186b122eb35f9c1e68bf15f5d5e6c752190efd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4022394
+project-id = 474447

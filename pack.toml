@@ -1,0 +1,13 @@
+name = "ATT"
+author = "P1R9T3"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c56865f41cbf5b8375a11763fa4a30c3844d85ea2c3e06e36c7a92291ac831ed"
+
+[versions]
+forge = "43.2.11"
+minecraft = "1.19.2"

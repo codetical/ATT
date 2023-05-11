@@ -1,0 +1,13 @@
+name = "City Decor"
+filename = "citydecor-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9bd95896c6e08601e231efafebe9425edc9b7e22"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4077177
+project-id = 497566

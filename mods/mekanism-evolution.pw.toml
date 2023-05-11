@@ -1,0 +1,13 @@
+name = "Mekanism-Evolution"
+filename = "Mekanism-Evolution-1.19.2-1.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9862c96702a00ebd8f6b7c8511ecb3619cfb2ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4530113
+project-id = 854474

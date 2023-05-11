@@ -1,0 +1,13 @@
+name = "Assembly Line Machines"
+filename = "assemblylinemachines-1.19.2-1.4.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "da5b971a7a3df2d9df95db398597062c0de0121b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3964948
+project-id = 388282
