@@ -434,6 +434,11 @@ hash = "1bd73f71f9f4a7da067ed53f4663931e429065e36dab574b380954f386c42564"
 metafile = true
 
 [[files]]
+file = "mods/compactstorage.pw.toml"
+hash = "f009179f98ce70acc8debbcc75dc6a01829f220198a1b7fd2216b71e1dfe3d16"
+metafile = true
+
+[[files]]
 file = "mods/compat-o-plenty.pw.toml"
 hash = "e111aa7a3eaf782eed64b526b9accdd353205fb91536ba10160138ead40447d7"
 metafile = true
@@ -646,6 +651,11 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "2751f4551f11b15f5b88b56b5906fa95df33e5da470ff67b3740f2fd3962d00e"
+metafile = true
+
+[[files]]
+file = "mods/expanded-storage.pw.toml"
+hash = "e4d053e90081f4ee342ca4abf427d692e958f9f89aa0e470a71e91b32242c3af"
 metafile = true
 
 [[files]]
@@ -1054,6 +1064,11 @@ hash = "13c88dde7a2157bbe8e803fc9a46a765c9c7392ff724cbe3855ae84f1f77e91b"
 metafile = true
 
 [[files]]
+file = "mods/pocket-storage.pw.toml"
+hash = "120c10638825c95a954c5f9c0f811ae144218e3dffbd514b0a6cfd852bd31aab"
+metafile = true
+
+[[files]]
 file = "mods/ponder.pw.toml"
 hash = "f6d440ee6152370d833549b57c903fa9d39e6f5c6656e5e070b6b353bf45be2b"
 metafile = true
@@ -1246,6 +1261,16 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "3d01b99f391bc147e1ff31ea3cdb44a25046c11bfc92c2983ffd351d5cad7748"
+metafile = true
+
+[[files]]
+file = "mods/u-team-core.pw.toml"
+hash = "d7eae421e9202d71e02d30789708856ba95be6d839fdc6eea7de02de4512f2f8"
+metafile = true
+
+[[files]]
+file = "mods/useful-backpacks.pw.toml"
+hash = "554a68a744269b4c70fdc0174d9d199b9aee48e058be1ed38dc76f8910cd0b03"
 metafile = true
 
 [[files]]
