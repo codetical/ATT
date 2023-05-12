@@ -644,11 +644,6 @@ hash = "a0b24d16f429dad6e11ff6fd0e3d556d9260378bd10768611e161fa64b764e9d"
 metafile = true
 
 [[files]]
-file = "mods/every-compat.pw.toml"
-hash = "2751f4551f11b15f5b88b56b5906fa95df33e5da470ff67b3740f2fd3962d00e"
-metafile = true
-
-[[files]]
 file = "mods/expanded-storage.pw.toml"
 hash = "e4d053e90081f4ee342ca4abf427d692e958f9f89aa0e470a71e91b32242c3af"
 metafile = true
