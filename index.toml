@@ -279,6 +279,11 @@ hash = "69fbbd125308fc4af78d22939a865236cd798834b46a9007b1c631852cdab94b"
 metafile = true
 
 [[files]]
+file = "mods/autopresetmap.pw.toml"
+hash = "129bf1ef1a10276526ccd4e58533e5ea4af5efefca4cfdcc75abf6627140621d"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
 metafile = true
@@ -594,6 +599,11 @@ hash = "b33441b07f85bd9d3a7757020afcc01b80a44cc376b29475ed246b0f97ec7d11"
 metafile = true
 
 [[files]]
+file = "mods/delightful.pw.toml"
+hash = "3d3385e777a7308ca5ff8b88299bb5df69e36b0e98c435b3c39210ce61f6fc3c"
+metafile = true
+
+[[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "0bf9a33b4982e93ee6281dc9217194dbe0efe1f226e3e24002409f67b0f6adfc"
 metafile = true
@@ -709,6 +719,11 @@ hash = "1c18ece7075641301655f8139ebbd69216944db81dc0bf697b51a6918bf38533"
 metafile = true
 
 [[files]]
+file = "mods/game-stages.pw.toml"
+hash = "0e520e0110faa5b2c240a154021e060226275ab0cf8748493a4c85d1545a4adc"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
 metafile = true
@@ -731,6 +746,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "7cf6e358595fd1e718272107019c78f520073e5a0fc20a3e8fa69339026cf1ff"
+metafile = true
+
+[[files]]
+file = "mods/immersiveposts.pw.toml"
+hash = "77666aab3567194263c594a898c47af230bfe922c474a3f43311663ce9ccdfe2"
 metafile = true
 
 [[files]]
@@ -954,6 +974,11 @@ hash = "afd35c04ffd1b263994811f5ecc1a6fb80a4a38e70e528591ca4b02fafc2d4b2"
 metafile = true
 
 [[files]]
+file = "mods/mapfrontiers.pw.toml"
+hash = "76d7900b3c2da2f66eb11f1cf368fa99bd0d7daad8dc2c0524f5047cdf2ef11a"
+metafile = true
+
+[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "5da4f927ed15f0cb187a5fc90af5ba7772e257521cc9537d095bc2287a44de09"
 metafile = true
@@ -1089,6 +1114,16 @@ hash = "95518e20b223ff5c53c14e7c7ecb70093c655b8dbdec8fc56ee5bb7e76540fed"
 metafile = true
 
 [[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "29e101a8eef507c96d02c54e1f82ea4d544c7edcce50957a3e33bf37955350e1"
+metafile = true
+
+[[files]]
+file = "mods/radon.pw.toml"
+hash = "981be0bc0eaa7492cfbe2068ecdb12424ecfba11166b1a264d7928c6391d7271"
+metafile = true
+
+[[files]]
 file = "mods/reauth.pw.toml"
 hash = "da46985b92972295e91b1a3365b79fdd526ce3f7000c56e4975fa63112f57837"
 metafile = true
@@ -1131,6 +1166,11 @@ metafile = true
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "94c5d47b41e62a7928d8c1b725e7e3434afe59c7bdb6dd19069db6e6069ebe02"
+metafile = true
+
+[[files]]
+file = "mods/ruins.pw.toml"
+hash = "a3e348eab97df0c7eb7214ee95adfb6f8cd68c6616b8fd612575282a64be5fa3"
 metafile = true
 
 [[files]]
