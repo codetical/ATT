@@ -1,0 +1,13 @@
+name = "Onyx Sans"
+filename = "Onyx-Sans-v2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe7b9c870a066974bf452ef34a4993f95299351d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4058099
+project-id = 674617

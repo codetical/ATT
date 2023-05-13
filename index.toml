@@ -1327,3 +1327,23 @@ metafile = true
 file = "mods/xtra-arrows.pw.toml"
 hash = "754c7c2ec24054753d0e71c4a8dc71aa3acb73210a0e6ba7250287f7a1f76749"
 metafile = true
+
+[[files]]
+file = "resourcepacks/onyx-sans.pw.toml"
+hash = "1d7e515c7d3d4270d2c360c7779c249bfc512a989c236cf7e4fb93e5b24fecdc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stoneborn-gear.pw.toml"
+hash = "780dcc81d2334872f461cda5568b77fa26e1564421b50cdc08600cd53360c93f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stoneborn-modded-compatibility-sbmc.pw.toml"
+hash = "7a3949d2a75e91a89971708d25a0cc3a6180f79244d1618da1efcada9c4d63a3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stoneborn.pw.toml"
+hash = "34d89feea10533fcdbe42be267df939e05e98d2d412a6fa1e5e2bdb99594a001"
+metafile = true
