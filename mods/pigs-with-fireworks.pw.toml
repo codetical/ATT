@@ -1,0 +1,13 @@
+name = "Pigs with Fireworks"
+filename = "PigsWithFireworks 1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1df01e76dbf2ea438c71dfa47b1b9e35bfcb9101"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4514496
+project-id = 856631

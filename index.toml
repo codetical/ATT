@@ -1079,6 +1079,11 @@ hash = "13c88dde7a2157bbe8e803fc9a46a765c9c7392ff724cbe3855ae84f1f77e91b"
 metafile = true
 
 [[files]]
+file = "mods/pigs-with-fireworks.pw.toml"
+hash = "888455d5fbac2d7d32ef90f79dfd56d7fdc8072de2e9d9f8e5583eba350b5a30"
+metafile = true
+
+[[files]]
 file = "mods/pocket-storage.pw.toml"
 hash = "120c10638825c95a954c5f9c0f811ae144218e3dffbd514b0a6cfd852bd31aab"
 metafile = true
