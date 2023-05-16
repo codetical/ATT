@@ -1,0 +1,47 @@
+To refresh this file, delete it and run /reload command again! Last updated: May 10, 2023, 7:21:31 AM
+
+#minecraft:bee_home
+- minecraft:beehive (from Default)
+- minecraft:bee_nest (from Default)
+- blueprint:beehive (from blueprint-1.19.2-6.1.2.jar)
+
+#the_bumblezone:is_near_beehive_advancement_trigger
+- #minecraft:bee_home (from the_bumblezone_forge-6.7.19+1.19.2.jar)
+- productivebees:solitary_hive? (from the_bumblezone_forge-6.7.19+1.19.2.jar)
+- productivebees:solitary_nest? (from the_bumblezone_forge-6.7.19+1.19.2.jar)
+- productivebees:draconic_nest? (from the_bumblezone_forge-6.7.19+1.19.2.jar)
+- productivebees:sugarbag_nest? (from the_bumblezone_forge-6.7.19+1.19.2.jar)
+- productivebees:nether_nest? (from the_bumblezone_forge-6.7.19+1.19.2.jar)
+- productivebees:bumble_bee_nest? (from the_bumblezone_forge-6.7.19+1.19.2.jar)
+
+#minecraft:acquirable_job_site
+- minecraft:armorer (from Default)
+- minecraft:butcher (from Default)
+- minecraft:cartographer (from Default)
+- minecraft:cleric (from Default)
+- minecraft:farmer (from Default)
+- minecraft:fisherman (from Default)
+- minecraft:fletcher (from Default)
+- minecraft:leatherworker (from Default)
+- minecraft:librarian (from Default)
+- minecraft:mason (from Default)
+- minecraft:shepherd (from Default)
+- minecraft:toolsmith (from Default)
+- minecraft:weaponsmith (from Default)
+- villagersplus:horticulturist (from VillagersPlus_1.2_(FORGE)_for_1.19.2.jar)
+- villagersplus:oceanographer (from VillagersPlus_1.2_(FORGE)_for_1.19.2.jar)
+- villagersplus:occultist (from VillagersPlus_1.2_(FORGE)_for_1.19.2.jar)
+- villagersplus:alchemist (from VillagersPlus_1.2_(FORGE)_for_1.19.2.jar)
+- chefsdelight:chef_poi (from chefs-delight-1.0.2-forge-1.19.2.jar)
+- chefsdelight:cook_poi (from chefs-delight-1.0.2-forge-1.19.2.jar)
+- immersiveengineering:craftingtable (from ImmersiveEngineering-1.19.2-9.2.1-164.jar)
+- immersiveengineering:turntable (from ImmersiveEngineering-1.19.2-9.2.1-164.jar)
+- immersiveengineering:circuit_table (from ImmersiveEngineering-1.19.2-9.2.1-164.jar)
+- immersiveengineering:shaderbanner (from ImmersiveEngineering-1.19.2-9.2.1-164.jar)
+- immersiveengineering:workbench (from ImmersiveEngineering-1.19.2-9.2.1-164.jar)
+- ae2:fluix_researcher (from appliedenergistics2-forge-12.9.4.jar)
+
+#minecraft:village
+- #minecraft:acquirable_job_site (from Default)
+- minecraft:home (from Default)
+- minecraft:meeting (from Default)

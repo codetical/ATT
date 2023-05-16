@@ -1,0 +1,149 @@
+[21:18:56] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
+[21:18:56] [Render thread/INFO] [JourneymapClient] initialize ENTER
+[21:18:56] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
+[21:18:56] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[21:18:56] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: games.alejandrocoria.mapfrontiers.client.plugin.MapFrontiersPlugin
+[21:18:56] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: games.alejandrocoria.autopresetmap.plugin.JourneyMapPlugin
+[21:18:56] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.railwayteam.railways.compat.journeymap.RailwayMapPlugin
+[21:18:56] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: frankv.jmi.JMIJourneyMapPlugin
+[21:18:56] [Render thread/DEBUG] [JourneymapClient] Loading and Generating Journeymap configs
+[21:18:56] [Render thread/INFO] [?] Version: JourneyMap 1.19.2-5.9.7, built with forge 1.19.2-43.2.0
+forge: 43.2.11
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
+Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapTopo : singleplayer = true , multiplayer = true
+	MapSurface : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+	MapBiome : singleplayer = true , multiplayer = true
+MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.9.7, zoomLevel=0, compassFontScale=2.74, terrainAlpha=63, showEntityNames=true, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=24, playerDisplayScale=2.0, showDayNight=true, showPets=true, preferredMapType=night, showCompass=true, mobDisplay=jm.common.entity_display.icons, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_circle, showSelf=true, selfDisplayScale=2.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=-563, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_topright, fontScale=3.08, showPlayers=true, waypointIconScale=2.0, frameAlpha=62, effectReversed=false, backgroundAlpha=0.8, enabled=true, showVillagers=true, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=true, waypointLabelScale=2.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xyvz, playerDisplay=jm.common.entity_display.icons, mobDisplayScale=2.0, showCaves=true, showMobHeading=true, locationFormatVerbose=true, info1Label=jm.theme.labelsource.blank}
+MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.9.7, zoomLevel=0, compassFontScale=2.0, terrainAlpha=100, showEntityNames=true, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=30, playerDisplayScale=2.0, showDayNight=false, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=jm.common.entity_display.icons, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_rectangle, showSelf=true, selfDisplayScale=2.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=-291, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_topright, fontScale=2.0, showPlayers=true, waypointIconScale=2.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=true, showVillagers=true, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=true, waypointLabelScale=2.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.icons, mobDisplayScale=2.0, showCaves=true, showMobHeading=true, locationFormatVerbose=true, info1Label=jm.theme.labelsource.blank}
+FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.9.7, zoomLevel=0, showPlayers=true, waypointIconScale=2.0, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showPlayerLoc=true, showKeys=true, playerDisplayScale=2.0, showMobs=true, showPets=true, waypointLabelScale=2.0, preferredMapType=day, mobDisplay=jm.common.entity_display.icons, showSelf=true, locationFormat=xyvz, playerDisplay=jm.common.entity_display.icons, mobDisplayScale=2.0, selfDisplayScale=2.0, showGrid=true, showMouseLoc=true, showWaypoints=true, showCaves=true, showAnimals=true, dragScale=1, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, fontScale=2.0}
+WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.9.7, autoRemoveDeathpointDistance=2, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, fullscreenDoubleClickToCreate=true, managerDimensionFocus=false, minDistance=4, boldLabel=false, textureSmall=true, showDeathpointlabel=true, beaconEnabled=false, createDeathpoints=true, showName=true, disableStrikeThrough=true, maxDistance=0, autoHideLabel=true, autoRemoveTempWaypoints=2, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, shaderBeacon=false, timeFormat=HH:mm:ss, showDeviationLabel=false, showDistance=true, showRotatingBeam=true, fontScale=2.0, showTexture=true, managerEnabled=true}
+WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.9.7, port=9000, enabled=true}
+CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.9.7, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, optionsManagerViewed=5.9.6, announceMod=false, colorPassive=#bbbbbb, mapBlendWater=false, renderDistanceSurfaceMax=11, seedId=false, radarVerticalDistance=32, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=jm.minimap.shape_square, mapBiome=true, alwaysMapSurface=true, colorVillager=#88e188, mapPlants=true, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=true, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=true, checkUpdates=false, mapBlendFoliage=true, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=false, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=true, maxAnimalsData=32, mapTransparency=true, caveBlackAsClear=false, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=11, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.9.7, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=EndCity, mapCaveLighting=true, renderDelay=0, glErrorChecking=false, autoMapPoll=500}
+[21:18:56] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeKeyEvents
+[21:18:56] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeChatEvents
+[21:18:56] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeHudOverlayEvents
+[21:18:56] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeWorldEvent
+[21:18:56] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeChunkEvents
+[21:18:56] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeClientTickEvent
+[21:18:56] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeRenderLevelLastEvent
+[21:18:56] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeLoggedInEvent
+[21:18:56] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeTextureStitchedEvent
+[21:18:56] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgePopupCustomEvents
+[21:18:56] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 362.43ms
+[21:19:23] [Render thread/INFO] [JourneymapClient] Journeymap PostInit
+[21:19:23] [Render thread/DEBUG] [JourneymapClient] postInitialize ENTER
+[21:19:23] [Render thread/TRACE] [ThemeLoader] Initializing themes ...
+[21:19:23] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[21:19:23] [Render thread/INFO] [VersionCheck] Update check disabled in properties file.
+[21:19:23] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 263.2ms
+[21:42:39] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[21:43:11] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for create
+[21:43:11] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
+[21:43:12] [Render thread/INFO] [WaypointStore] Loaded 5 waypoints from C:\Users\P1R9T3\AppData\Roaming\PrismLauncher\instances\ATT\.minecraft\journeymap\data\sp\Genesys Prime\waypoints
+[21:43:12] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\P1R9T3\AppData\Roaming\PrismLauncher\instances\ATT\.minecraft\journeymap\data\sp\Genesys Prime\overworld. Memory: 15432MB total, 8395MB free 
+[21:43:12] [Render thread/WARN] [JMLogger] Can't get entityTexture for artifacts:textures/entity_icon/mimic.png
+[21:46:06] [Render thread/WARN] [JMLogger] Can't get entityTexture for quark:textures/entity_icon/stoneling/calcite.png
+[21:48:04] [Render thread/WARN] [JMLogger] Can't get entityTexture for quark:textures/entity_icon/stoneling/dripstone.png
+[21:49:21] [Render thread/WARN] [JMLogger] Can't get entityTexture for quark:textures/entity_icon/stoneling/shale.png
+[21:51:37] [Render thread/WARN] [JMLogger] Can't get entityTexture for quark:textures/entity_icon/stoneling/tuff.png
+[21:56:16] [IO-Worker-80/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [1, -22]
+[21:56:20] [IO-Worker-80/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [1, -36]
+[21:56:36] [IO-Worker-85/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [5, -15]
+[21:58:39] [Render thread/WARN] [JMLogger] Can't get entityTexture for quark:textures/entity_icon/stoneling/deepslate.png
+[21:59:35] [Render thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[21:59:35] [Render thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[22:07:29] [JM-task-1/ERROR] [BlockMD] Can't get blockId/meta for chunk -23,-42 at BlockPos{x=-361, y=54, z=-672} : net.minecraft.world.level.chunk.MissingPaletteEntryException: Missing Palette entry for index 1.
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.HashMapPalette.m_5795_(HashMapPalette.java:64)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.PalettedContainer.m_63085_(PalettedContainer.java:146)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.PalettedContainer.m_63087_(PalettedContainer.java:141)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.LevelChunkSection.m_62982_(LevelChunkSection.java:51)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.level.chunk.LevelChunk.m_8055_(LevelChunk.java:858)
+	at TRANSFORMER/journeymap@5.9.7/journeymap.client.model.ChunkMD.getChunkBlockState(ChunkMD.java:129)
+	at TRANSFORMER/journeymap@5.9.7/journeymap.client.model.BlockMD.getBlockMD(BlockMD.java:252)
+	at TRANSFORMER/journeymap@5.9.7/journeymap.client.model.ChunkMD.getBlockMD(ChunkMD.java:151)
+	at TRANSFORMER/journeymap@5.9.7/journeymap.common.nbt.RegionData.setBlockState(RegionData.java:154)
+	at TRANSFORMER/journeymap@5.9.7/journeymap.client.cartography.render.SurfaceRenderer.buildStrata(SurfaceRenderer.java:429)
+	at TRANSFORMER/journeymap@5.9.7/journeymap.client.cartography.render.SurfaceRenderer.renderSurface(SurfaceRenderer.java:219)
+	at TRANSFORMER/journeymap@5.9.7/journeymap.client.cartography.render.SurfaceRenderer.render(SurfaceRenderer.java:123)
+	at TRANSFORMER/journeymap@5.9.7/journeymap.client.cartography.render.SurfaceRenderer.render(SurfaceRenderer.java:93)
+	at TRANSFORMER/journeymap@5.9.7/journeymap.client.cartography.ChunkRenderController.renderChunk(ChunkRenderController.java:169)
+	at TRANSFORMER/journeymap@5.9.7/journeymap.client.task.multi.BaseMapTask.performTask(BaseMapTask.java:125)
+	at TRANSFORMER/journeymap@5.9.7/journeymap.client.task.multi.TaskBatch.performTask(TaskBatch.java:72)
+	at TRANSFORMER/journeymap@5.9.7/journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch.performTask(MapPlayerTask.java:424)
+	at TRANSFORMER/journeymap@5.9.7/journeymap.client.thread.RunnableTask$Inner.run(RunnableTask.java:77)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[22:20:15] [Render thread/WARN] [JMLogger] Can't get entityTexture for neapolitan:textures/entity_icon/spider/plantain_spider.png
+[22:20:32] [IO-Worker-232/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [21, -1]
+[00:03:52] [JM-task-1/WARN] [StatTimer] SurfaceRenderer.renderSurface was slow: 1290.9554 (Warning limit reached)
+[00:03:52] [JM-task-1/WARN] [StatTimer] SurfaceRenderer.renderSurface: Avg:     6.25ms, Min:      0.7ms, Max:   317417.5ms, Total:       1328 sec, Count:   212418, Canceled:        0, Slow:       10
+[00:34:58] [IO-Worker-512/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [16, -10]
+[00:35:02] [IO-Worker-512/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [16, -1]
+[00:35:05] [IO-Worker-511/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [17, -3]
+[00:35:09] [IO-Worker-511/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [14, -3]
+[00:35:10] [IO-Worker-512/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [13, -3]
+[00:35:11] [JM-task-1/WARN] [StatTimer] MapPlayerTask.performTask was slow: 11411.5834 (Warning limit reached)
+[00:35:11] [JM-task-1/WARN] [StatTimer] MapPlayerTask.performTask: Avg:   102.18ms, Min:      0.1ms, Max:  345558.87ms, Total:       3664 sec, Count:    35862, Canceled:        0, Slow:       10
+[00:35:13] [IO-Worker-517/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [13, -5]
+[00:35:13] [IO-Worker-517/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [25, -4]
+[00:35:14] [IO-Worker-517/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [26, -4]
+[00:35:15] [IO-Worker-517/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [8, -1]
+[00:35:15] [IO-Worker-513/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [7, -4]
+[01:06:52] [IO-Worker-528/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [7, -7]
+[01:08:17] [IO-Worker-543/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [26, -11]
+[01:08:17] [IO-Worker-543/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [27, -11]
+[02:30:20] [Render thread/INFO] [StatTimer] MiniMap1.Circle hit max count, 1000000
+[02:30:50] [IO-Worker-764/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [32, 5]
+[05:11:36] [IO-Worker-858/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [32, 7]
+[06:07:31] [IO-Worker-1034/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [26, -12]
+[06:07:31] [IO-Worker-1034/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [28, -11]
+[06:07:32] [IO-Worker-1039/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [21, -13]
+[06:07:32] [IO-Worker-1034/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [14, -13]
+[06:12:19] [IO-Worker-1077/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [32, 18]
+[06:12:21] [IO-Worker-1071/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [32, 19]
+[06:19:54] [IO-Worker-1112/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [32, 5]
+[06:46:36] [IO-Worker-1168/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [34, 2]
+[06:46:56] [IO-Worker-1146/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [33, 19]
+[06:50:44] [IO-Worker-1184/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [4, -4]
+[06:50:45] [IO-Worker-1173/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [3, -3]
+[06:50:47] [IO-Worker-1173/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [2, -5]
+[06:50:47] [IO-Worker-1173/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [2, -9]
+[06:50:50] [IO-Worker-1173/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [0, -9]
+[06:50:50] [IO-Worker-1173/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [0, -10]
+[07:13:41] [IO-Worker-1267/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [19, -17]
+[07:13:41] [IO-Worker-1259/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [24, -18]
+[07:13:42] [IO-Worker-1247/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [19, -18]
+[07:13:42] [IO-Worker-1268/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [17, -19]
+[07:20:04] [IO-Worker-1312/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [35, 9]
+[07:55:52] [IO-Worker-1429/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [34, 6]
+[07:59:00] [JM-task-1/INFO] [StatTimer] CaveRenderer.render hit max count, 1000000
+[08:16:21] [IO-Worker-1512/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [33, 5]
+[08:16:22] [IO-Worker-1512/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [32, 10]
+[08:16:25] [IO-Worker-1509/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [35, 11]
+[08:16:25] [IO-Worker-1509/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [36, 4]
+[08:16:26] [IO-Worker-1509/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [36, 9]
+[08:16:27] [IO-Worker-1507/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [36, 10]
+[08:25:57] [IO-Worker-1508/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [34, 7]
+[08:38:46] [IO-Worker-1508/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [23, -1]
+[08:38:46] [IO-Worker-1515/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [22, -2]
+[08:39:05] [IO-Worker-1508/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [19, -3]
+[08:39:06] [IO-Worker-1508/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [16, -1]
+[08:39:19] [IO-Worker-1520/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [18, -5]
+[08:39:19] [IO-Worker-1508/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [14, -1]
+[08:39:20] [IO-Worker-1520/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [28, -7]
+[08:39:21] [IO-Worker-1520/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [13, -1]
+[08:39:21] [IO-Worker-1521/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [36, 3]
+[08:39:23] [IO-Worker-1520/ERROR] [CacheFileStorage] Error reading chunk for ChunkPos [29, -8]
+[08:40:49] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\P1R9T3\AppData\Roaming\PrismLauncher\instances\ATT\.minecraft\journeymap\data\mp\offline\minecraft:overworld
+[08:40:49] [JM-task-1/WARN] [TaskBatch] TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@a496a92

@@ -16,7 +16,7 @@
 	#Base energy storage (Joules).
 	lightAbsorbingSolarPanel = "209952000"
 	#Base energy storage (Joules).
-	photonicSolarPanel = "629856000"
+	photonicSolarPanel = "6298560000"
 	#Base energy storage (Joules).
 	creativeSolarPanel = "2000000000"
 

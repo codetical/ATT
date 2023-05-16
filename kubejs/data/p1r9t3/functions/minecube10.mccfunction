@@ -1,0 +1,2 @@
+fill ~-10 ~-10 ~-10 ~10 ~10 ~10 air destroy
+tp @e[type=item] ~ ~ ~
