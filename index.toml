@@ -3494,6 +3494,10 @@ hash = "754c7c2ec24054753d0e71c4a8dc71aa3acb73210a0e6ba7250287f7a1f76749"
 metafile = true
 
 [[files]]
+file = "resourcepacks/STONEBORN-+SBMC+-V3.1-Modded-Compatibility.zip"
+hash = "9a1e3ef65ed8a46909b99899ea997fb68be30058e48a24ec9e162cc17d18a26c"
+
+[[files]]
 file = "resourcepacks/onyx-sans.pw.toml"
 hash = "1d7e515c7d3d4270d2c360c7779c249bfc512a989c236cf7e4fb93e5b24fecdc"
 metafile = true
@@ -3501,11 +3505,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/stoneborn-gear.pw.toml"
 hash = "780dcc81d2334872f461cda5568b77fa26e1564421b50cdc08600cd53360c93f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/stoneborn-modded-compatibility-sbmc.pw.toml"
-hash = "7a3949d2a75e91a89971708d25a0cc3a6180f79244d1618da1efcada9c4d63a3"
 metafile = true
 
 [[files]]
