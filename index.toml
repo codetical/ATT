@@ -1885,6 +1885,10 @@ file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
+file = "kubejs/assets/quark/textures/model/entity/variants/pig1.png"
+hash = "fe4c2a1208c795a31f8bf574c345b95875704938d198b13b6ac3fa057b53101a"
+
+[[files]]
 file = "kubejs/client_scripts/script.js"
 hash = "f7534f18e0e6a728766a0f7464a58198c8995a2f330d8767737f71575da38693"
 
