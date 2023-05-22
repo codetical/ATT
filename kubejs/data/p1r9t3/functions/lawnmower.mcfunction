@@ -17,6 +17,7 @@ fill ~-100 ~-25 ~-100 ~100 ~25 ~100 air replace biomesoplenty:huge_clover_petal
 fill ~-100 ~-25 ~-100 ~100 ~25 ~100 air replace biomesoplenty:clover
 fill ~-100 ~-25 ~-100 ~100 ~25 ~100 air replace minecraft:azure_bluet
 fill ~-100 ~-25 ~-100 ~100 ~25 ~100 air replace minecraft:lilac
+fill ~-100 ~-25 ~-100 ~100 ~25 ~100 air replace minecraft:dead_bush
 fill ~-100 ~-25 ~-100 ~100 ~25 ~100 air replace minecraft:big_dripleaf
 fill ~-100 ~-25 ~-100 ~100 ~25 ~100 air replace minecraft:small_dripleaf
 fill ~-100 ~-25 ~-100 ~100 ~25 ~100 air replace minecraft:seagrass
@@ -26,5 +27,6 @@ fill ~-100 ~-25 ~-100 ~100 ~25 ~100 air replace minecraft:big_dripleaf_stem
 fill ~-100 ~-25 ~-100 ~100 ~25 ~100 air replace minecraft:rose_bush
 fill ~-100 ~-25 ~-100 ~100 ~25 ~100 air replace biomesoplenty:wildflower
 fill ~-100 ~-25 ~-100 ~100 ~25 ~100 air replace biomesoplenty:desert_grass
+fill ~-100 ~-25 ~-100 ~100 ~25 ~100 air replace biomesoplenty:dead_grass
 fill ~-100 ~-25 ~-100 ~100 ~25 ~100 air replace biomesoplenty:bush
 fill ~-100 ~-25 ~-100 ~100 ~25 ~100 air replace biomesoplenty:barley

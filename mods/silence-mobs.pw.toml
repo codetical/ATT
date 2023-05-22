@@ -1,0 +1,13 @@
+name = "Silence Mobs"
+filename = "silencemobs-1.19.2-3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fdd31c91f93f7cef2799dda7e698b7136257707c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4313640
+project-id = 304077

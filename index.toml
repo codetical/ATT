@@ -1841,7 +1841,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "461493ee632bb68ad05723eaa7cf192823c282bed84ae801aaceadc741fc2d7b"
+hash = "d821db86a94d146d571d6204cb2862addc1ad998dbd85a13746f698dd1745a44"
 metafile = true
 
 [[files]]
@@ -1911,7 +1911,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "3263538e83dbfcdfccbe8b278cf163894a992672f97db3efb551c7a47cdf8ff3"
+hash = "4bc9e158aa43e1d629c456880ef37aa85ca872ec7e9d067aa43c4ca83f3ea12a"
 metafile = true
 
 [[files]]
@@ -1956,12 +1956,12 @@ metafile = true
 
 [[files]]
 file = "mods/delightful.pw.toml"
-hash = "3d3385e777a7308ca5ff8b88299bb5df69e36b0e98c435b3c39210ce61f6fc3c"
+hash = "b97731a574e39e3d5b968f31eda09411c55d423377c46a49bd0a8ddebebf61b4"
 metafile = true
 
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
-hash = "7c052b6bcbf35836e3c3c0301ec731a923a04e2e56a524c63f1b59b2d6755960"
+hash = "4af1e133531b9e3b1cd6ba33ebe8dcd6780b0c20fdc6b03b25514703ceb89dee"
 metafile = true
 
 [[files]]
@@ -2011,7 +2011,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "4e82700b2d16a58a680d14a2a7dd49bbd4308dc642c5f1a65497b4492fec4d99"
+hash = "c195eb219ae15100cfae7a2c9038ff8109bb709c6445a3f7ddbd9aaa46976789"
 metafile = true
 
 [[files]]
@@ -2061,7 +2061,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "26803327926f5c9293df6c46661c55e8f3ad21c8250e8121a6986dcb1c783218"
+hash = "f7c6841b8490e85dc08ce0a11da0638a00d2468993402ddf222c875fabd20fe6"
 metafile = true
 
 [[files]]
@@ -2315,7 +2315,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "ccae58379e56d3148c08a27bcd825b1c7f50c984f7d970d5235dae638b3b4f51"
+hash = "6652963a36a833070b3fb7959083682a4580da18ed642c43bf05d1524012c43e"
 metafile = true
 
 [[files]]
@@ -2480,7 +2480,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "d4fb275538a7d246ef432f9ae66f38ca24c5e8e2c056dcc3b998fb5663aa5f16"
+hash = "3aba82a76f78a55aff9efd9398a3497a30984ec9f72a858a5f64c997c32fae43"
 metafile = true
 
 [[files]]
@@ -2540,7 +2540,7 @@ metafile = true
 
 [[files]]
 file = "mods/ruins.pw.toml"
-hash = "f904e8e573ffb524e1fa9fc2c90562b30b0ec54961e3909f29c7706c798d3685"
+hash = "6f5f9e70940dae44c7d54a4749c97662dcf7f11bd787043ad9440c46d7cbc8bf"
 metafile = true
 
 [[files]]
@@ -2565,12 +2565,17 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "746663fba0e14847e0d3eb760a158b17180afaa93510470d5ee84a825694f84d"
+hash = "5699c0f9c7aae8254080b512f9dff5822fc6b82b9541b48f363b2810cf47119b"
 metafile = true
 
 [[files]]
 file = "mods/shutup-experimental-settings.pw.toml"
 hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
+metafile = true
+
+[[files]]
+file = "mods/silence-mobs.pw.toml"
+hash = "8360a2bbe12e3f5fd6e46797a239eb594f436043d3a284d61bd2a1e09b56e74e"
 metafile = true
 
 [[files]]
@@ -2585,12 +2590,12 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "fe8a1a22dcfbdaeacb5d709a51f14ac0f63bf4d0623f7717bfb43e0648dd032f"
+hash = "22eb914e4c4239ba34726b8143476b11da20f4f414f0eb857bbaafcfae26837b"
 metafile = true
 
 [[files]]
 file = "mods/small-ships.pw.toml"
-hash = "06afd88dfbd401ba6cbe0f35bda9d40cf508de266eaba7252075a19dca236066"
+hash = "079e4a5fdc20cfecb85a2b27727c18f24ec5c31d53d77c4235bf5b21f026d663"
 metafile = true
 
 [[files]]
@@ -2620,12 +2625,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "f516b9896ceb6b5a76b9960e4f3c5ca8e92e706b464893df515fd9028a2f1215"
+hash = "6ff334a0ec93ebd38b4776f9307e659ac7d537c9dec4d50903e6bec37291b418"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries-squared.pw.toml"
-hash = "48f1c2265ab712ad42ff8fedd94db758ed8d61db073fb3a37821a36736d9c747"
+hash = "e5193ed1544359284f88c9882d32d918ebf237015a03daadfbbb8d1fe71e22ab"
 metafile = true
 
 [[files]]
