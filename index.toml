@@ -1101,20 +1101,8 @@ file = "kubejs/data/p1r9t3/functions/babiestotorture.mcfunction"
 hash = "a16c4452863497aa6b1ad6bec5f4f91b8682dd89b6da9f5f1e8133e7632bb1a7"
 
 [[files]]
-file = "kubejs/data/p1r9t3/functions/chunkfiller.mcfunction"
-hash = "b1e71d62d8057af8c00db2d1508833aca372b1e37e3bef887f7d68c6a479b4ed"
-
-[[files]]
-file = "kubejs/data/p1r9t3/functions/chunkkiller.mcfunction"
-hash = "61c01bb13efde09fe41446b5f55bb7ef93e2cbe7f122b434cb43c0e9a27ac5f1"
-
-[[files]]
 file = "kubejs/data/p1r9t3/functions/lawnmower.mcfunction"
-hash = "6a310957e3257655971a3bcc968c5d71884571016255ea76347e4edd43e042f0"
-
-[[files]]
-file = "kubejs/data/p1r9t3/functions/minecube10.mccfunction"
-hash = "50f013d53ddc02902160d7e2c2a1a305358d3184d284d9bd2c31122bdbe941bd"
+hash = "c11e1d46287ae1136d7332cc37627a511a719f9acff2083e9dafc7af3493348f"
 
 [[files]]
 file = "kubejs/data/p1r9t3/functions/moblawnmower.mcfunction"
@@ -1885,9 +1873,8 @@ hash = "51a8b5b7da9cfe2b04dfe56af888f7a9305e1b5d251dca746272a6d9df2b3fda"
 metafile = true
 
 [[files]]
-file = "mods/create-goggles.pw.toml"
+file = "mods/create-goggles.pw.toml.disabled"
 hash = "07f03d4308f66b0039b6ad54e67ab8c2c1dfb3757bc9e58bac15c3a312d179fa"
-metafile = true
 
 [[files]]
 file = "mods/create-misc-and-things.pw.toml"
@@ -1895,9 +1882,8 @@ hash = "2fb872708b9ecbb87969142dcae4a81072e4a889d2577dd5a92c1ef5dfd29bbb"
 metafile = true
 
 [[files]]
-file = "mods/create-sifting.pw.toml"
+file = "mods/create-sifting.pw.toml.disabled"
 hash = "de99bdd93717fa3b1190ab6f5cfbd3268071337e9c7f390559c07e88b99d5d2e"
-metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
