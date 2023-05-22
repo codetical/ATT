@@ -1873,8 +1873,18 @@ hash = "51a8b5b7da9cfe2b04dfe56af888f7a9305e1b5d251dca746272a6d9df2b3fda"
 metafile = true
 
 [[files]]
+file = "mods/create-goggles.pw.toml"
+hash = "07f03d4308f66b0039b6ad54e67ab8c2c1dfb3757bc9e58bac15c3a312d179fa"
+metafile = true
+
+[[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "2fb872708b9ecbb87969142dcae4a81072e4a889d2577dd5a92c1ef5dfd29bbb"
+metafile = true
+
+[[files]]
+file = "mods/create-sifting.pw.toml"
+hash = "de99bdd93717fa3b1190ab6f5cfbd3268071337e9c7f390559c07e88b99d5d2e"
 metafile = true
 
 [[files]]
@@ -1889,7 +1899,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "4bc9e158aa43e1d629c456880ef37aa85ca872ec7e9d067aa43c4ca83f3ea12a"
+hash = "3263538e83dbfcdfccbe8b278cf163894a992672f97db3efb551c7a47cdf8ff3"
 metafile = true
 
 [[files]]
