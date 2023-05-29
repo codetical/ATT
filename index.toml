@@ -1849,17 +1849,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-crystal-clear.pw.toml"
-hash = "b8d11969b1c0a76392e33cdb64c75ea35828fb0fae95cf4f5d70db497c2eec23"
+hash = "fcf5d03138839b03446ea18611d706102016071ac021b6a12c361abdbf848c68"
 metafile = true
 
 [[files]]
 file = "mods/create-deco.pw.toml"
-hash = "b0bb61105e0ac0c763edfa41ea5b0406f157bc17e421af1bf8b2cbb49325ced6"
+hash = "6ddc3bbe998bc708a6d986368c3c798ea0df279b0de8a9a5cb67b0bc26cea5b8"
 metafile = true
 
 [[files]]
 file = "mods/create-encased.pw.toml"
-hash = "a63fb222bb40ba54b115477ba1d467cca3d8c92c9de9839fed2e1973dfa1640b"
+hash = "82caac34fca18545bc49f38e956b51794d18e6400bd8422d82d6b4143536bb0a"
 metafile = true
 
 [[files]]
@@ -1873,13 +1873,18 @@ hash = "51a8b5b7da9cfe2b04dfe56af888f7a9305e1b5d251dca746272a6d9df2b3fda"
 metafile = true
 
 [[files]]
+file = "mods/create-goggles.pw.toml"
+hash = "07f03d4308f66b0039b6ad54e67ab8c2c1dfb3757bc9e58bac15c3a312d179fa"
+metafile = true
+
+[[files]]
 file = "mods/create-misc-and-things.pw.toml"
-hash = "77fa72a0d31e0d5bbd4fb7a95d00300f7d654bedf9a42e0e665e17dd937d764c"
+hash = "2fb872708b9ecbb87969142dcae4a81072e4a889d2577dd5a92c1ef5dfd29bbb"
 metafile = true
 
 [[files]]
 file = "mods/create-sifting.pw.toml"
-hash = "ffa9439306d2634b80b6ce222503ee3ea254e9bafda1729ce22015004b0d069d"
+hash = "de99bdd93717fa3b1190ab6f5cfbd3268071337e9c7f390559c07e88b99d5d2e"
 metafile = true
 
 [[files]]
@@ -1894,12 +1899,12 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "89bf28ca15640301ff8cf651ccbcae3047cbaf6af30797f739bfa45d1f2299ce"
+hash = "3263538e83dbfcdfccbe8b278cf163894a992672f97db3efb551c7a47cdf8ff3"
 metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "dc215d12d87c9cc23a80637334dbed408a729ac9fb5310fb521d4750023931e6"
+hash = "c14f367d6613911833f2b158642db0e9e9852cba78618cdf683233dbbc5c7b2a"
 metafile = true
 
 [[files]]
@@ -2573,7 +2578,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "c414ba29d13dceaccae22897d37014eb8e5a5e0599cf090f6ecc3e607a77a50f"
+hash = "22eb914e4c4239ba34726b8143476b11da20f4f414f0eb857bbaafcfae26837b"
 metafile = true
 
 [[files]]
@@ -2588,7 +2593,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "db9bb383bfa9ced1286549b5b0c2c4a2979d5e4ab39c6e86d7e01bf690f9b7a8"
+hash = "7ad4c554d2d59b0c52e48670371695a63f087f85cfaed4d37477818260d600dc"
 metafile = true
 
 [[files]]
