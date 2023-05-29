@@ -1564,7 +1564,7 @@ metafile = true
 
 [[files]]
 file = "mods/apathy-mod.pw.toml"
-hash = "bb253d239263f9a5bcd1faca4fe7ad92aab07d84337735ecb60af347aca25dff"
+hash = "9e143954de9831a06df25dbf4a8c196f4b4538cc73fe311eddfb7308fa7b96b3"
 metafile = true
 
 [[files]]
@@ -1584,7 +1584,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "fceb5e51e94c45f9010b6d2f6ccc477e78176c6d3565756d4b4ae811cfd3dd2b"
+hash = "db0a6a9c7d7c84ff18029f21a083e445ace641b6568453ffeddc0c406a6673e9"
 metafile = true
 
 [[files]]
@@ -1599,7 +1599,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "f7a3e7000b1babc57896bfc34200102ca75b951ef7dc67984301261ef8e999c7"
+hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
 metafile = true
 
 [[files]]
@@ -1674,7 +1674,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "9c6f89d65804f3f09d774105c6a9afda57c949f7c0610689eb9c09de8cc3f1b8"
+hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
 metafile = true
 
 [[files]]
@@ -2119,7 +2119,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons.pw.toml"
-hash = "4b71171ba73da26c1582f013ebd49882b7d101da463a71ada07854c1aede2206"
+hash = "f41cbd4e04d52ac715dc243fe0cd0df327de89a155d5c2145aa26ba7667d43c8"
 metafile = true
 
 [[files]]
@@ -2184,7 +2184,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-botany-pots.pw.toml"
-hash = "8d059311ea45779e32b8be1b479dcc6b210b4f8ece63928d6d1b4a01f6764dd3"
+hash = "b65c20ae9e8201d3b39d18290ef4c36e707c7176838cd89e4603764e9d5a0aba"
 metafile = true
 
 [[files]]
@@ -2204,7 +2204,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-powah.pw.toml"
-hash = "1dab2f08046fcde045372a25d5750424e35b2d6ac37719bbf6b60642458190c2"
+hash = "51815335e89c79a11d083d03e5af69e3ef9343e36d4367ecd5d8cc153a7bfb46"
 metafile = true
 
 [[files]]
@@ -2328,7 +2328,7 @@ metafile = true
 
 [[files]]
 file = "mods/mapfrontiers.pw.toml"
-hash = "76d7900b3c2da2f66eb11f1cf368fa99bd0d7daad8dc2c0524f5047cdf2ef11a"
+hash = "1804e01f2cde00e509f57b2b181cf459b0f5f2d881b4616f9c84b63959d7f55f"
 metafile = true
 
 [[files]]
@@ -2468,7 +2468,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "3aba82a76f78a55aff9efd9398a3497a30984ec9f72a858a5f64c997c32fae43"
+hash = "934115dd157d2e040da75153198ff497099b2fb5d8141fa543a39ad461e217cd"
 metafile = true
 
 [[files]]
@@ -2508,7 +2508,7 @@ metafile = true
 
 [[files]]
 file = "mods/redstone-gauges-and-switches.pw.toml"
-hash = "83ea064afb738a24cdf6f629ed0cb3c1ffa7cde6def4004bb0f4f725d7cabd39"
+hash = "de566da5a6b9b06872c00cb9ab1212f49324e0966bec77d0ea886cee8c2cfd2f"
 metafile = true
 
 [[files]]
@@ -2528,7 +2528,7 @@ metafile = true
 
 [[files]]
 file = "mods/ruins.pw.toml"
-hash = "6f5f9e70940dae44c7d54a4749c97662dcf7f11bd787043ad9440c46d7cbc8bf"
+hash = "1257c1b423399c99d94a77bf7ad5794a5d5f08db3100d8dea8b279328de672d0"
 metafile = true
 
 [[files]]
@@ -2588,7 +2588,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "18f9d2a42bfa0d4c33e545d0e04f03ab8e92ee379cdab071d87ac56c330ffc69"
+hash = "5b1a78ae497977fdd1a0f9068368f4806bcd8cc627bfa6c947e0f5fcec2961be"
 metafile = true
 
 [[files]]
@@ -2613,7 +2613,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "6ff334a0ec93ebd38b4776f9307e659ac7d537c9dec4d50903e6bec37291b418"
+hash = "58e741dbccfe64a5117d54800ad713028fa2d7265f9682af48a0f8b4be8cd9f7"
 metafile = true
 
 [[files]]
@@ -2623,7 +2623,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b06a689f856227de2e5f39a4e217f719664a702d157f35d88bd88d770e82ed5e"
+hash = "ff2933697a23fa143d2b71421a7bee194d02ec5a24bf54537d3febdb19678c65"
 metafile = true
 
 [[files]]
