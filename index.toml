@@ -2593,7 +2593,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "7ad4c554d2d59b0c52e48670371695a63f087f85cfaed4d37477818260d600dc"
+hash = "db9bb383bfa9ced1286549b5b0c2c4a2979d5e4ab39c6e86d7e01bf690f9b7a8"
 metafile = true
 
 [[files]]
@@ -2623,7 +2623,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "ff2933697a23fa143d2b71421a7bee194d02ec5a24bf54537d3febdb19678c65"
+hash = "445b1dc24fa955a3297df1f3533ca6dc5455c638fa634e020cbf0a1dd55768ce"
 metafile = true
 
 [[files]]
