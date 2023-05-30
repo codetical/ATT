@@ -1,13 +1,13 @@
 name = "Create Train Additions"
-filename = "Create Train Additions 0.2.1.jar"
+filename = "Create Train Additions 0.3.0-1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d07ac420527415f386231ebe9127b0df37005bbe"
+hash = "afe48bfeacf56014bbb93ea305568abe4a175beb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4475777
+file-id = 4557454
 project-id = 821428
