@@ -2453,12 +2453,12 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "781896701dc26fd89483325914ee4343c427043893d8bb29bea527c149ab6029"
+hash = "424e0713b38b6c20a3d4e258c7a5a92856526faee10961f1795e4c07f486edf3"
 metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "94c5d47b41e62a7928d8c1b725e7e3434afe59c7bdb6dd19069db6e6069ebe02"
+hash = "17b8e8533a46c1aceee6165392a6e937b3507feb774f2b6dff9e3c9799bc05ea"
 metafile = true
 
 [[files]]
