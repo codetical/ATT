@@ -1724,7 +1724,7 @@ metafile = true
 
 [[files]]
 file = "mods/chipped.pw.toml"
-hash = "e5f8129720d57f431f9760a127745bac675379a1ef68ded2509d32dd4cc0fe3b"
+hash = "48657db6031c875c4ec2a64100e4181f1e6d01ba5997abe4af507618ace854d1"
 metafile = true
 
 [[files]]
@@ -2079,7 +2079,7 @@ metafile = true
 
 [[files]]
 file = "mods/jeitweaker.pw.toml"
-hash = "653215a31a01c44794461352e81fc5f9da8ad117e7782873b1baddc8f0a585bb"
+hash = "79c7103772af148359a66b13d2cbd5345af97146e5beee7b17a68dbdb8c3cdd3"
 metafile = true
 
 [[files]]
@@ -2463,7 +2463,7 @@ metafile = true
 
 [[files]]
 file = "mods/ruins.pw.toml"
-hash = "1257c1b423399c99d94a77bf7ad5794a5d5f08db3100d8dea8b279328de672d0"
+hash = "f3f525115da8919fd6831fd80407bd77c149bfe518dde448fefec60f54e9038c"
 metafile = true
 
 [[files]]
@@ -2488,7 +2488,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "5699c0f9c7aae8254080b512f9dff5822fc6b82b9541b48f363b2810cf47119b"
+hash = "df0c8bad3709152bb3aa4e939e85b278eca88c234ef8edd73a82e66daf61c155"
 metafile = true
 
 [[files]]
@@ -2518,7 +2518,7 @@ metafile = true
 
 [[files]]
 file = "mods/small-ships.pw.toml"
-hash = "079e4a5fdc20cfecb85a2b27727c18f24ec5c31d53d77c4235bf5b21f026d663"
+hash = "d60ef0f0710b701dd35f9a19b095201d048a21f938d1751452db85c04cd4855d"
 metafile = true
 
 [[files]]
@@ -2558,12 +2558,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "ff2933697a23fa143d2b71421a7bee194d02ec5a24bf54537d3febdb19678c65"
+hash = "ab17ac56be6d469dab428ae444a8d2875c4b4374e2dc60b9f2f249e34179c219"
 metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "64036b0bc617a33d904a0e6371ddc7d63896a888b1e0ada1a6eae8f647bb9327"
+hash = "c26ded7614542dd2a55dca1e25e4f7fc4bafc7becc7fbdbd8ecb3fb5775f12e0"
 metafile = true
 
 [[files]]
@@ -2573,7 +2573,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-forge.pw.toml"
-hash = "76990ae853cfaee649fd8d6f5885e52d4edf8876cd7718c2b339ac6a9878ea31"
+hash = "44bca219f51ef2ff7ac8bd3c3c26c25f2b27ab70fc49f93144db980256f44aab"
 metafile = true
 
 [[files]]
