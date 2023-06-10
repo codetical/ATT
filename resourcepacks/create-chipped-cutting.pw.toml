@@ -1,0 +1,13 @@
+name = "Create: Chipped Cutting"
+filename = "create_chipped_cutting.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "47bb227225dc33d94ab245329052e29b93237b30"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4563382
+project-id = 869204

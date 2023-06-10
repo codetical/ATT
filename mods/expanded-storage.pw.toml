@@ -1,13 +1,13 @@
 name = "Expanded Storage"
-filename = "expandedstorage-8.3.3+1.19.2-forge.jar"
+filename = "expandedstorage-8.3.4+1.19.2-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2c97171f0f6f1dd3feb430e47bb343ecd5b4654f"
+hash = "a319d626b9cdd893bc30b93aa4628ced84d9d33e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4541059
+file-id = 4568477
 project-id = 317856
