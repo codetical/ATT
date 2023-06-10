@@ -2632,6 +2632,11 @@ hash = "754c7c2ec24054753d0e71c4a8dc71aa3acb73210a0e6ba7250287f7a1f76749"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-villages-immersive-engineering.pw.toml"
+hash = "c91877039d96ddaf842da3da5c98e8a88a5996f2257bdc7febc57458d8b71402"
+metafile = true
+
+[[files]]
 file = "resourcepacks/create-chipped-cutting.pw.toml"
 hash = "a8d7c2a46f767b48cf2f3efdde8648b17e8286517d9949c44d61772ca23de2ab"
 metafile = true
