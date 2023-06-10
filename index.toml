@@ -2173,8 +2173,8 @@ hash = "75db5a82c47c470b5f7483ef8008073616ebe218672d9fb60242de5788c6d764"
 metafile = true
 
 [[files]]
-file = "mods/lightspeed-1.19.2-1.0.3.jar"
-hash = "83a080ff40d84566ba10ea03538c8abe848fb7e17c2afe6c95b81b754db18247"
+file = "mods/lightspeed-1.19.2-1.0.4.jar"
+hash = "778c3c71ed773f42a8b2998043d4ce200965165d540c45e4b56b1f21be6ebfdb"
 
 [[files]]
 file = "mods/log-begone.pw.toml"
